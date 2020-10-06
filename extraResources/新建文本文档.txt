@@ -1,0 +1,12 @@
+松视1台,p8p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c.ts#https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
+松视2,p8p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts#http://ourtv.homeunix.com:9502/twhkokk/song2/.ts
+松视3台,p8p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts
+K频道,p8p://0818.02686.cc:20012/5f3f2b9e0005cb370a424d7f07df7156.ts#http://ourtv.homeunix.com:9502/twhkokk/raink/.ts
+彩虹MOIVE,p8p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
+彩虹e台,p8p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619.ts#http://ourtv.homeunix.com:9502/twhkokk/raine/.ts
+HOT,p8p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d.ts#http://ourtv.homeunix.com:9502/twhkokk/hot/.ts
+HAPPY,p8p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f.ts#https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
+潘多拉玩美,p8p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23.ts#http://ourtv.homeunix.com:9502/twhkokk/perfect/.ts
+潘多拉粉红,p8p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31.ts#http://ourtv.homeunix.com:9502/twhkokk/pink/.ts
+惊艳成人电影台,p8p://0818.02686.cc:20012/5f3f25da000e99280a2bca20680560c2.ts#http://ourtv.homeunix.com:9502/twhkokk/jingyan/.ts
+香蕉台,p8p://0818.02686.cc:20012/5f3f24c1000af48d0a277f8997de9d5f.ts#http://ourtv.homeunix.com:9502/twhkokk/xiangjiao/.ts
